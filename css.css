@@ -1,0 +1,24 @@
+.rsvp form {
+    margin-top: 10px;
+}
+
+.rsvp input, .rsvp select {
+    width: 80%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.rsvp button {
+    background-color: #b85c5c;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.rsvp button:hover {
+    background-color: #a04c4c;
+}
